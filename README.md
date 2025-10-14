@@ -40,7 +40,7 @@ Fundierte Kenntnisse in Embedded C/C++, Python und Rust sowie modellbasierten Ar
 ## 📫 Kontakt
 
 - ✉️ E-Mail: deine.email@beispiel.de  
-- 🔗 LinkedIn: [linkedin.com/in/deinprofil](https://linkedin.com/in/deinprofil)  
+- 🔗 LinkedIn: [linkedin.com/in/annam-naidu-yenne](https://linkedin.com/in/annam-naidu-yenne)  
 
 </div>
 </details>
