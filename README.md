@@ -40,7 +40,7 @@ Fundierte Kenntnisse in Embedded C/C++, Python und Rust sowie modellbasierten Ar
 ## 📫 Kontakt
 
 - ✉️ E-Mail: deine.email@beispiel.de  
-- 🔗 LinkedIn: [linkedin.com/in/annam-naidu-yenne](https://linkedin.com/in/annam-naidu-yenne)  
+- 🔗 LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)  
 
 </div>
 </details>
@@ -80,7 +80,7 @@ Skilled in Embedded C/C++, Python, and Rust and architecture-driven development.
 ## 📫 Contact
 
 - ✉️ Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/annam-naidu-yenne](https://linkedin.com/in/annam-naidu-yenne)  
+- 🔗 LinkedIn: [linkedin.com/in/an-yenne](https://linkedin.com/in/an-yenne)  
 
 </div>
 </details>
@@ -100,5 +100,5 @@ Skilled in Embedded C/C++, Python, and Rust and architecture-driven development.
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/annam-naidu.yenne"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/enne"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
