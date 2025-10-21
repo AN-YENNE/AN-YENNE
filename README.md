@@ -91,7 +91,7 @@ Skilled in Embedded C/C++, Python, and Rust and architecture-driven development.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AN-YENNE&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-YENNE&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-YENNE&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.1&count_weight=0.9" alt="Top Languages" height="180"/>
 </p>
 
 ---
