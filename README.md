@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  Embedded Software Engineer specializing in automotive safety-critical systems | AUTOSAR | Real-Time Systems | Infineon AURIX | ISO 26262 | MBSE for ADAS | ASPICE
+  Systems (MBSE) and (Embedded) Software Engineer specializing in automotive safety-critical systems | AUTOSAR
 </p>
 
 <hr />
