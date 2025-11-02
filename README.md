@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  Systems (MBSE) and (Embedded) Software Engineer specializing in automotive safety-critical systems | AUTOSAR
+  Systems (MBSE) and (Embedded) Software Engineer specializing in automotive safety-critical systems
 </p>
 
 <hr />
