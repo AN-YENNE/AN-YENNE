@@ -21,19 +21,18 @@
 - Sicherheitskritische Software auf Infineon AURIX  
 - Funktionale Sicherheit nach ISO 26262 und ASPICE
 
-
 Fundierte Kenntnisse in Embedded C/C++, Python und Rust sowie modellbasierten Architekturen.
 
 ---
 
 ## 🛠️ Fähigkeiten & Technologien
 
-- **Sprachen:** C, C++14/17/20, Python, Rust, C#, Perl, SQL, MATLAB, RISC-V  
+- **Sprachen:** C, modern C++14/17/20, Python, Rust, C#, Perl, SQL, MATLAB, RISC-V  
 - **Protokolle:** Ethernet, CAN, SPI, I2C, UART, LWIP, SOME/IP, XCP  
 - **Standards:** AUTOSAR, ISO 26262, ASPICE, MISRA C, CERT-C  
 - **Werkzeuge:** Trace32, DOORS, Jenkins, Enterprise Architect, Rhapsody, Visual Studio, CANoe, Git, JIRA, Confluence  
 - **Modellierung:** SysML, UML, RFLP, V-Modell, CAMEO Systems Modeler  
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Bitbucket Pipelines, Conan, Artifactory  
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Bitbucket Pipelines, Conan, Artifactory
 
 ---
 
@@ -74,7 +73,6 @@ Skilled in Embedded C/C++, Python, and Rust and architecture-driven development.
 - **Tools:** Trace32, DOORS, Jenkins, Enterprise Architect, Rhapsody, Visual Studio, CANoe, Git, JIRA, Confluence  
 - **Modeling:** SysML, UML, RFLP, V-Model, CAMEO Systems Modeler  
 - **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Bitbucket Pipelines, Conan, Artifactory  
-
 ---
 
 ## 📫 Contact
